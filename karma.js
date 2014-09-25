@@ -23,6 +23,7 @@ setInterval(function() {
 
 // pull in 20 tweets
 // oh yeah
+
 	if(rand <= 0.55){
 		
 			 
