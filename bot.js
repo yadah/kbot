@@ -31,7 +31,6 @@ Bot.prototype.tweet = function (status, callback) {
    console.log(this); 
 }*/
 
-
       
 //
 //
