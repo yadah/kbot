@@ -22,7 +22,7 @@ setInterval(function() {
   var rand = Math.random();
 
 // pull in 20 tweets
-// oh yeah
+// oh yea
 	if(rand <= 0.55){
 		
 			 
