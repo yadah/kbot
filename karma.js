@@ -13,7 +13,7 @@ function datestring () {
      +   d.getDate();
 };
 
-
+//
 setInterval(function() {
   bot.twit.get('followers/ids', function(err, reply) {
     if(err) return handleError(err)
