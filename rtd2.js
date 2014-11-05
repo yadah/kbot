@@ -1,4 +1,4 @@
-//
+// This is a test
 //  RTD2 - Twitter bot that tweets about the most popular github.com news
 //  Also makes new friends and prunes its followings.
 //
